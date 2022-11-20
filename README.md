@@ -6,12 +6,12 @@
 # Analecia mariana oliveira dos santos
 # Lucas henrique silva santos
 # Gabriel henrique dos santos
-# Grupo:
 #
 # Campus: Estácio
 # Curso: Dev.Full Stack
 # Disciplina: Colocando Tudo em Ordem e Guardando Dev
-# Turma: Team 27
+# Turma: 22.3
+# Grupo: Dev 27
 # Semestre: 1
 # Obetivos:
 #
